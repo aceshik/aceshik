@@ -6,13 +6,11 @@
 
 <h3 align="center"> ✨ Tech Stack ✨ </h3>
 <p align="center">
-   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,7 +34,7 @@
 
 <br>
 
-<h3 align="center"> 📫 Contact 📫 </h3>
+<h3 align="center"> 📫 Contacts 📫 </h3>
 <p align="center">
   <a href="https://www.instagram.com/aceshik" target="_blank">
     <img src="https://img.shields.io/badge/ACESHIK-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
