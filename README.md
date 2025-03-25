@@ -43,11 +43,11 @@
     <img src="https://img.shields.io/badge/ACESHIK-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br>
-  <a href="https://blog.naver.com/your-blog" target="_blank">
+  <a href="https://blog.naver.com/aceshik" target="_blank">
     <img src="https://img.shields.io/badge/N%20BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
   <br>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:aceshik@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
