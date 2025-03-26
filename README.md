@@ -34,8 +34,12 @@
 
 <br>
 
-<h3 align="center"> 📫 Contacts 📫 </h3>
+<h3 align="center"> 📫 Contact 📫 </h3>
+
+
 <p align="center">
+  
+<!--
   <a href="https://www.instagram.com/aceshik" target="_blank">
     <img src="https://img.shields.io/badge/ACESHIK-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -44,6 +48,8 @@
     <img src="https://img.shields.io/badge/N%20BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
   <br>
+    -->
+
   <a href="mailto:aceshik@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
